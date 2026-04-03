@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002Fshijing\u002Fgloss\u002F[poemId]\u002F[materialId]\u002F[glossId]","\u002Fshijing\u002Fpoem\u002F[poemId]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
